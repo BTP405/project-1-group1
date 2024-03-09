@@ -6,25 +6,26 @@
 - Title: Budget Buddy
 - Description: A budget-management web application that helps you keep track of your expenses, providing extensive insights into your routine spending.
 ## 2. Installation
-    - Dependencies: 
-        - pip3 install -U Flask
-        - pip3 install python-dotenv
-        - pip3 install mongoengine
-        - pip3 install certifi
-        - pip3 install bcrypt
-        - pip3 install pyjwt
-        - pip3 install torch
-        - pip3 install llama-index
-    - Installation Instructions: Provide step-by-step instructions on how to install and set up your project.
-    For backend:
+- Dependencies: 
+    - `pip3 install -U Flask`
+    - `pip3 install python-dotenv`
+    - `pip3 install mongoengine`
+    - `pip3 install certifi`
+    - `pip3 install bcrypt`
+    - `pip3 install pyjwt`
+    - `pip3 install torch`
+    - `pip3 install llama-index`
+- Installation Instructions: Provide step-by-step instructions on how to install and set up your project.
+    - For backend:
         - Install all python dependencies
-        - cd server
-        - python3 main.py
-    For frontend:
-        - cd client
-        - npm i
-        - npm run dev
-        - npm run tw:build
+        - Ask for the `.env` file and put it into the `/server` folder
+        - `cd server`
+        - `python3 main.py`
+    - For frontend:
+        - `cd client`
+        - `npm i`
+        - `npm run dev` (in one termial)
+        - `npm run tw:build` (in another terminal)
 ## 3. Usage
 > To use the project open http://localhost:3000, when the project is running, you will see the home page. Navigate to the login/signup page from the header     and fill the fields needed. You will be redirected to the dashboard, from where you can analyse your spending routines, view, add, edit, delete         spendings. Click the user icon in the header to navigate to other pages. In profile, you can edit your budget, and view the user info. In the resources, you can find useful resources, and use AI search to find relevant articles. (Key usage screenshots are attached)
 
