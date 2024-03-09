@@ -3,8 +3,8 @@
 ### Please use the following template to add a ReadMe for your repo.
 
 ## 1. Project Title and Description
-    - Title: Budget Buddy
-    - Description: A budget-management web application that helps you keep track of your expenses, providing extensive insights into your routine spending.
+- Title: Budget Buddy
+- Description: A budget-management web application that helps you keep track of your expenses, providing extensive insights into your routine spending.
 ## 2. Installation
     - Dependencies: 
         - pip3 install -U Flask
@@ -26,28 +26,29 @@
         - npm run dev
         - npm run tw:build
 ## 3. Usage
-    To use the project open http://localhost:3000, when the project is running, you will see the home page. Navigate to the login/signup page from the header     and fill the fields needed. You will be redirected to the dashboard, from where you can analyse your spending routines, view, add, edit, delete         spendings. Click the user icon in the header to navigate to other pages. In profile, you can edit your budget, and view the user info. In the resources, you can find useful resources, and use AI search to find relevant articles. (Key usage screenshots are attached)
-    ![image](https://github.com/BTP405/project-1-group1/assets/158524114/0e9b0e4d-121e-4213-8571-44dc836c5b08)
+> To use the project open http://localhost:3000, when the project is running, you will see the home page. Navigate to the login/signup page from the header     and fill the fields needed. You will be redirected to the dashboard, from where you can analyse your spending routines, view, add, edit, delete         spendings. Click the user icon in the header to navigate to other pages. In profile, you can edit your budget, and view the user info. In the resources, you can find useful resources, and use AI search to find relevant articles. (Key usage screenshots are attached)
+
+![image](https://github.com/BTP405/project-1-group1/assets/158524114/0e9b0e4d-121e-4213-8571-44dc836c5b08)
     (Sign Up)
 
-    ![image](https://github.com/BTP405/project-1-group1/assets/158524114/0a8cb66d-b113-456e-925f-1b5150050859)
+![image](https://github.com/BTP405/project-1-group1/assets/158524114/0a8cb66d-b113-456e-925f-1b5150050859)
     (Dashboard)
 
-    ![image](https://github.com/BTP405/project-1-group1/assets/158524114/9db9085b-ba92-4b2e-9114-feea0e96d970)
+![image](https://github.com/BTP405/project-1-group1/assets/158524114/9db9085b-ba92-4b2e-9114-feea0e96d970)
     (Spendings list)
 
-    ![image](https://github.com/BTP405/project-1-group1/assets/158524114/c85f8214-dc79-43a7-b836-09c76281ab34)
+![image](https://github.com/BTP405/project-1-group1/assets/158524114/c85f8214-dc79-43a7-b836-09c76281ab34)
     (Profile)
 
-    ![image](https://github.com/BTP405/project-1-group1/assets/158524114/a4e56ef0-e6e5-43ad-8645-0eedbee435a7)
+![image](https://github.com/BTP405/project-1-group1/assets/158524114/a4e56ef0-e6e5-43ad-8645-0eedbee435a7)
     (Resources)
 ## 4. Features
-    - Login/Sign Up
-    - Detailed spending statistics Dashboard, with graphs, and informative modules.
-    - Spending record search and filtering
-    - Spending records management (create, update, delete)
-    - Budget update for various periods including monthly, weekly, and daily budgets
-    - Useful budgeting resources with integrated AI search that will help to find the most relevant article
+- Login/Sign Up
+- Detailed spending statistics Dashboard, with graphs, and informative modules.
+- Spending record search and filtering
+- Spending records management (create, update, delete)
+- Budget update for various periods including monthly, weekly, and daily budgets
+- Useful budgeting resources with integrated AI search that will help to find the most relevant article
 
 ## 5. Contributing
     - If you want to contribute to our project, you are required to follow these guidelines:
